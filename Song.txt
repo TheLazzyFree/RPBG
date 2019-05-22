@@ -1,1 +1,2 @@
-(Первая строчка)
+(first line)
+(second line)
